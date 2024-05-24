@@ -1,3 +1,3 @@
 # Demo
 This is my first Git
-Auther- Ishu Katiyar
+Author- Ishu Katiyar
